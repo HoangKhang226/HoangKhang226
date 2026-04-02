@@ -1,18 +1,44 @@
+# Hi there, I'm Đặng Hoàng Khang 👋
+### 🤖 AI Engineer | MLOps Enthusiast | Data Science Student @ HCMUS
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HoangKhang226&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HoangKhang226&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKhang226&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HoangKhang226&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+<a href="https://github.com/HoangKhang226">
+  <img src="https://img.shields.io/badge/Main%20Focus-Multi--Agent%20%26%20RAG-blue?style=for-the-badge&logo=probot" />
+</a>
+<a href="https://github.com/HoangKhang226">
+  <img src="https://img.shields.io/badge/Current%20Goal-MLOps%20Optimization-orange?style=for-the-badge&logo=docker" />
+</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HoangKhang226&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+- 🎓 **Education:** Data Science at University of Science, VNU-HCM.
+- 🛠️ **Expertise:** Building **Multi-Agent RAG systems** (LangGraph), Fine-tuning LLMs (DPO/LoRA), and Architecting **MLOps pipelines**.
+- 🌐 **Community:** Admin of **Young Data Scientist Việt Nam**.
+- 💻 **Environment:** Developing on **WSL2** with a focus on production-ready code.
+
+---
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=XGBoost) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
+| **MLOps & DevOps** | ![MLflow](https://img.shields.io/badge/mlflow-%23d53938.svg?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Data Analysis** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib) |
+---
+
+### 🔥 Featured Projects
+🧠 GraphRAG-FastAPI: Advanced Multi-Agent RAG system built with LangGraph and Gemini for complex information retrieval.
+
+⚙️ MLOps Pipeline: End-to-end automated ML workflow featuring MLflow for tracking and FastAPI/Docker for production serving.
+
+📊 Chat-With-Data: Interactive LLM application enabling natural language querying and visualization over structured datasets.
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/HoangKhang.Dang.226)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:khangrubikcuber@gmail.com)
+[<img src="https://img.shields.io/badge/Page-Young%20Data%20Scientist-0078D4?style=for-the-badge" />](https://www.facebook.com/youngdatascientistvn)

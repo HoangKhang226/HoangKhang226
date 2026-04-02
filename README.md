@@ -16,7 +16,6 @@
 - 🎓 **Education:** Data Science at University of Science, VNU-HCM.
 - 🛠️ **Expertise:** Building **Multi-Agent RAG systems** (LangGraph), Fine-tuning LLMs (DPO/LoRA), and Architecting **MLOps pipelines**.
 - 🌐 **Community:** Admin of **Young Data Scientist Việt Nam**.
-- 💻 **Environment:** Developing on **WSL2** with a focus on production-ready code.
 
 ---
 ### 🛠️ Tech Stack & Tools

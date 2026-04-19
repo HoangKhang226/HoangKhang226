@@ -26,14 +26,13 @@
 | **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=XGBoost) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
 | **MLOps & DevOps** | ![MLflow](https://img.shields.io/badge/mlflow-%23d53938.svg?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
 | **Data Analysis** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib) |
----
 
-### 🔥 Featured Projects
-🧠 GraphRAG-FastAPI: Advanced Multi-Agent RAG system built with LangGraph and Gemini for complex information retrieval.
 
-⚙️ MLOps Pipeline: End-to-end automated ML workflow featuring MLflow for tracking and FastAPI/Docker for production serving.
-
-📊 Chat-With-Data: Interactive LLM application enabling natural language querying and visualization over structured datasets.
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKhang226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,html,css,powershell" alt="HoangKhang226's Top Langs" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoangKhang226&show_icons=true&theme=tokyonight&hide_border=true" alt="HoangKhang226's GitHub Stats" height="200px" />
+</p>
 
 ---
 

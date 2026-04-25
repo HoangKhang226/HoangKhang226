@@ -1,5 +1,5 @@
 # Hi there, I'm Đặng Hoàng Khang 👋
-### 🤖 AI Engineer | MLOps Enthusiast | Data Science Student @ HCMUS
+### AI Engineer | MLOps Enthusiast | Data Science Student @ HCMUS
 
 <p align="left">
 <a href="https://github.com/HoangKhang226">
@@ -12,13 +12,13 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Data Science at University of Science, VNU-HCM.
-- 🛠️ **Expertise:** Building **Multi-Agent RAG systems** (LangGraph), Fine-tuning LLMs (DPO/LoRA), and Architecting **MLOps pipelines**.
-- 🌐 **Community:** Admin of **Young Data Scientist Việt Nam**.
+### About Me
+-  **Education:** Data Science at University of Science, VNU-HCM.
+-  **Expertise:** Building **Multi-Agent RAG systems** (LangGraph), Fine-tuning LLMs (DPO/LoRA), and Architecting **MLOps pipelines**.
+-  **Community:** Admin of **Young Data Scientist Việt Nam**.
 
 ---
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Skills & Frameworks |
 | :--- | :--- |
